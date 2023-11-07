@@ -1,3 +1,5 @@
+package Lecture2;
+
 public class Keisan {
     int goukei(int[] num){
         int sum = 0;

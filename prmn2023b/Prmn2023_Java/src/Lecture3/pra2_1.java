@@ -1,3 +1,5 @@
+package Lecture3;
+
 import java.util.Scanner;
 
 public class pra2_1 {

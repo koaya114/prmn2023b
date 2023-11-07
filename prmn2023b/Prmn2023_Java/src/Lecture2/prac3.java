@@ -1,3 +1,5 @@
+package Lecture2;
+
 public class prac3 {
     public static void main(String[] args) {
         String[][] gakuseki = new String[2][5];

@@ -1,3 +1,5 @@
+package Lecture2;
+
 import java.util.Scanner;
 
 public class prac2 {

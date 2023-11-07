@@ -1,3 +1,5 @@
+package Lecture3;
+
 public class Login {
     String name;
     int num;

@@ -1,3 +1,5 @@
+package Lecture2;
+
 public class Gakuseki {
 
     String number = "B2001000";
